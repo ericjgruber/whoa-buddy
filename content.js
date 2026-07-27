@@ -57,7 +57,7 @@ function highlightProductionCards() {
             align-items: center;
             justify-content: center;
             cursor: pointer;
-            z-index: 9999;
+            z-index: 1000;
             opacity: 1;
             transition: opacity 0.4s ease;
           `;
